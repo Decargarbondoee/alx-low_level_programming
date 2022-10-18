@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "emmett"
 
 /**
  * main - prints _putchar, followed by a new line
