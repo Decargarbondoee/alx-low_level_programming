@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * rev_string - function that reverses a string
- * @s: string to be reverse
+ * @s: input
  * Return: Always 0 (success)
  */
 void rev_string(char *s)
@@ -10,7 +10,7 @@ void rev_string(char *s)
 	int c = 0;
 	int i;
 
-	while (s[c] != '\n')
+	while (s[c] != '\o')
 		c++;
 	for (i = 0; i < c; i++)
 	{
