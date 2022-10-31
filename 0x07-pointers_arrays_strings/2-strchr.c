@@ -1,5 +1,5 @@
 nclude "main.h"
-#include <stddef>
+#include <stddef.h>
 
 /**
  * _strchr - locates a character
