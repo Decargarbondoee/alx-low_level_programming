@@ -1,5 +1,5 @@
-#ifndef MAIN.H
-#define MAIN.H
+#ifndef MAIN_H
+#define MAIN_H
 /**
  * File: main.h
  * Auth: E-Tech (Emmett D. Bondoe)

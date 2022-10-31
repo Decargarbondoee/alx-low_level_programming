@@ -1,17 +1,10 @@
 #include <stdio.h>
-#include "main.h"
 /**
- *  * main - magic                                                                                                                       
- *
- *   * @n: represent number                                                                                                               
- *
- *    * @a: represent alphabet                                                                                                             
- *
- *     * @p: is the pointer                                                                                                                 
- *
- *      * Return: Always 0 (success)                                                                                                         
- *
- *       */                           
+ * main - magic                                                                                                                      
+ * @n: represent number                                                                                                             
+ * @a: represent alphabet                                                                               
+ * @p: is the pointer
+ * Return: Always 0 (success)                                                                                                     */                        
 
 int main(void)
 {
