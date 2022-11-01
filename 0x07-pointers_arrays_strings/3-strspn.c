@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _strspn - Get the lenght of the priffix
+ * _strspn - Get the lenght of the prefix
  * @s: string
  * @accept: string compare to
  * Return: unsigned int
